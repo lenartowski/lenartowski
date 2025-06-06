@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 
 ## About Me
-Founder of byHeart.io. Experienced developer by day, beginner vibe coder by night. I write bugs with confidence and fix them with humility.
+Founder of [byHeart.io](https://byheart.io). Experienced developer by day, beginner vibe coder by night. I write bugs with confidence and fix them with humility.
 
 ## Get in Touch
 - Website: [lenartowski.dev](https://lenartowski.dev)
