@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 
 ## About Me
-Software developer passionate about creating clean, efficient solutions. I enjoy working with modern technologies and contributing to open-source projects.
+Founder of byHeart.io. Experienced developer by day, beginner vibe coder by night. I write bugs with confidence and fix them with humility.
 
 ## Get in Touch
 - Website: [lenartowski.dev](https://lenartowski.dev)
